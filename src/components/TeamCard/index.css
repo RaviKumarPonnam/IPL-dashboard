@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.team-logo {
+  height: 70px;
+  width: 60px;
+}
+
+.li {
+  list-style-type: none;
+  color: #fff;
+}
+
+.li > div > div {
+  display: flex;
+  align-items: center;
+  border: 2px solid #fff;
+  margin: 10px;
+  width: 250px;
+  padding: 10px;
+  gap: 10px;
+  border-radius: 10px;
+  background-color: #ffffff33;
+}

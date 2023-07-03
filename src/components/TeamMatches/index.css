@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.teamMatchesContainer {
+  background-image: linear-gradient(to bottom, #d91c1f, #0f172a);
+  height: 100vh;
+  background-size: cover;
+  padding: 20px;
+}
+
+.banner-container {
+  display: flex;
+  justify-content: center;
+}
+
+.latestMatch-Title {
+  color: #fff;
+  margin-left: 180px;
+  font-size: 20px;
+}
+
+.latestMatchParentContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.recent-match {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 91vw;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+}
