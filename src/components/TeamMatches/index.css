@@ -4,6 +4,7 @@
   height: 100%;
   background-size: cover;
   padding: 20px;
+  min-height: 100vh;
 }
 
 .banner-container {
