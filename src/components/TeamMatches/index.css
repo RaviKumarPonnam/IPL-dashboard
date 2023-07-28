@@ -1,7 +1,7 @@
 /* Write your CSS here */
 .teamMatchesContainer {
   background-image: linear-gradient(to bottom, #d91c1f, #0f172a);
-  height: 100vh;
+  height: 100%;
   background-size: cover;
   padding: 20px;
 }
